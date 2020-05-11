@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngContentfuel"
+    }
+  },
+  "defaultProject": "ngContentfuel",
+  "cli": {
+    "analytics": false
+  }
 }
